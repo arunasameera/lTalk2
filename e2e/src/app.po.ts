@@ -6,6 +6,9 @@ export class AppPage {
   }
 
 
+ // feature comment
+
+
 //master comment
 
   getTitleText() {
