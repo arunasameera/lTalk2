@@ -13,6 +13,9 @@ export class AppPage {
 
 // feature commit1
 
+// feature commit2
+
+
   getTitleText() {
     return element(by.css('app-root h1')).getText() as Promise<string>;
   }
