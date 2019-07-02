@@ -6,10 +6,7 @@ export class AppPage {
   }
 
 
- // feature comment
 
-
-//master comment
 
   getTitleText() {
     return element(by.css('app-root h1')).getText() as Promise<string>;
